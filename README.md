@@ -9,6 +9,7 @@ designed. Please note this example uses and requires Java 8 to work..
 new machine
 checking again
 Poll SCM
+Updated
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
